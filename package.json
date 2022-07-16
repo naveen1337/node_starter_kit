@@ -1,5 +1,5 @@
 {
-  "name": "node_starter_kit",
+  "name": "streams_api",
   "version": "1.0.0",
   "description": "personal node starter kit",
   "main": "dist/index.js",
