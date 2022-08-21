@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/naming-convention */
-export const HTTP_CODES = {
+export const HTTP = {
   OK: 200,
   NOT_FOUND: 404,
   CREATED: 201,

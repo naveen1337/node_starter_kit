@@ -168,6 +168,8 @@ module.exports = {
         "@typescript-eslint/disable-next-line": "off",
         "@typescript-eslint/no-trailing-spaces": "off",
         "@typescript-eslint/naming-convention": "off",
+        "@typescript-eslint/naming-convention": "off",
+        "@typescript-eslint/no-misused-promises": "off",
       },
     },
   ],
